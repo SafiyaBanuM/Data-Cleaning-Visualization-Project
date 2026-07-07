@@ -75,7 +75,7 @@ plt.scatter(df["price_usd"], df["cogs_usd"],alpha=0.6)
 plt.title("Price vs Cost of Goods Sold")
 plt.xlabel("Price (USD)")
 plt.ylabel("COGS (USD)")
-ply.grid(True)
+plt.grid(True)
 plt.savefig("scatterplots_price.png")
 plt.show()
 #Insight:

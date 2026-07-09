@@ -1,12 +1,12 @@
 # Data-Cleaning-Visualization-Project
-## 📌 Project Overview
+##  Project Overview
 This project was completed as part of the **Thiranex Data Science Internship**.
 
 The objective of the project is to clean, analyze, and visualize a real-world dataset using Python. The project demonstrates essential data preprocessing techniques and multiple data visualization methods to extract meaningful business insights.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset Name:** Maven Fuzzy Factory - Orders Dataset
 
@@ -23,7 +23,7 @@ The dataset contains information about:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Load the dataset using Pandas
 - Explore the dataset
@@ -36,7 +36,7 @@ The dataset contains information about:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -44,7 +44,7 @@ The dataset contains information about:
 
 ---
 
-## 📊 Data Cleaning
+##  Data Cleaning
 
 The following data cleaning steps were performed:
 
@@ -57,20 +57,20 @@ The following data cleaning steps were performed:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The following visualization techniques were used:
 
-- 📦 Box Plot
-- 📊 Histogram
-- 📈 Bar Chart
-- 🥧 Pie Chart
-- 🔵 Scatter Plot
-- 📊 Items Purchased Bar Chart
+-  Box Plot
+-  Histogram
+-  Bar Chart
+-  Pie Chart
+-  Scatter Plot
+-  Items Purchased Bar Chart
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - No missing values were found in the dataset.
 - No duplicate records were identified.
@@ -81,13 +81,13 @@ The following visualization techniques were used:
 
 ---
 
-## 📷 Project Screenshots
+##  Project Screenshots
 
 The generated visualizations are available in the **screenshots** folder.
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone this repository.
 
@@ -104,12 +104,12 @@ pip install pandas matplotlib
 3. Run the Python script.
 
 ```
-python interntask1.py
+python data-visualization-project.py
 ```
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Data-Cleaning-Visualization-Project/
@@ -129,7 +129,7 @@ Data-Cleaning-Visualization-Project/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Safiya Banu M**
 
